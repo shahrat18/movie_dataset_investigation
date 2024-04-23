@@ -7,7 +7,7 @@ Along with the questions, details of the dataset, the result of the of analysis 
 
 
 
-## 2. Question: 
+## 2. Question
   a. Which year has seen more investment year to year?
   
   b. What is the average profit made each year?
